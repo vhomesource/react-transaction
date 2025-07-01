@@ -1,3 +1,8 @@
+## Notes about this branch
+-- Run migrations and seeders 
+-- Also update composer file
+-- id: vm@hs.com
+-- password: newpassword
 
 ## Objective
 
